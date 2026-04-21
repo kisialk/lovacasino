@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lova-casino.vercel.app/sitemap.xml
+Sitemap: https://lovacasino.vercel.app/sitemap.xml
